@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">B10509034_HW4</string>
+    <string name="add_clock">新增課程</string>
+    <string name="class_name_required">輸入課程名稱</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">確認</string>
+
+    <string-array name="week">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+
+    <string name="notification_channel_name">Prim</string>
+
+</resources>
